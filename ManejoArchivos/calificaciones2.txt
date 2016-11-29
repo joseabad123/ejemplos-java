@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+Jhon;Mendez;5;18
+Javier;Torres;20;20
+Alex;Carmona;13;1
