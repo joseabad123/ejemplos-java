@@ -1,0 +1,11 @@
+	Comercial Ventas Y Reventas
+Nombre: jose
+Ciudad: loja
+-----------------------------------
+Producto	Cantidad	Precio
+Sal		2	2,00
+Arroz		3	7,50
+-----------------------------------
+	Subtotal: 9,50
+	IVA 14: 1,33
+	Total: 10,83
